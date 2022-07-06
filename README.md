@@ -14,5 +14,8 @@ Copia e cola na máquina e deixar instalar
 apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/twossh/GESTOR/main/ssh-plus)
 
 ```
-
+# Senha root
+```
+bash <(wget -qO- https://raw.githubusercontent.com/twossh/GESTOR/main/senharoot.sh)
+```
 #paz
