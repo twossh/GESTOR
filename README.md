@@ -1,10 +1,18 @@
-# GESTOR 
-Script de gerenciamento SSH, baseado no SSHPLUS
- 
-# CRIADOR
-=> by: @CRAZY_VPN
+# GESTOR
 
-# MODDER (Cópia da cópia)
-=> by: @twossh :P
+# @twossh
+
+# Modo de instalação
+Copia e cola na máquina e deixar instalar
+
+• atualiza sistema
+
+• desativa Ipv6
+
+• instala o script e recursos
+```
+apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/twossh/GESTOR/main/ssh-plus)
+
+```
 
 #paz
